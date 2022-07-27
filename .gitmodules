@@ -1,0 +1,3 @@
+[submodule "sfdisk-sort-go"]
+	path = sfdisk-sort-go
+	url = https://github.com/artnoi43/sfdisk-sort-go
